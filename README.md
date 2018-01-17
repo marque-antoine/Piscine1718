@@ -1,5 +1,5 @@
 # Projet Piscine Groupe 7\
-##Installation
+## Installation
 Pour instiller et utiliser le site, il vous faut :
 * Avoir installé XAMP (ou WAMP ou MAMP selon votre OS)
 * Dans les préférences, utiliser le répertoire du dossier GitHub comme "document root" dans l'onglet Web Server
@@ -9,7 +9,7 @@ Pour instiller et utiliser le site, il vous faut :
 *aller sur "login" et utiliser le compte user:festival password: festival
 *Et voila, Enjoy !
 
-###Auteurs
+### Auteurs
 * **Amjad Menouer**
 * **Cristina Alexandra**
 * **Ines Missoum**
